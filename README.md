@@ -3,10 +3,10 @@
 Bem-vindo ao meu portfolio! Aqui você encontrará uma seleção dos meus projetos recentes, informações sobre mim e minhas habilidades, além de como entrar em contato comigo.
 
 ## Habilidades
-Eu me especializo nas seguintes áreas:
+Estou me aprimorando  nas seguintes áreas:
 
-Desenvolvimento Front-end
-HTML, CSS, JavaScript
+- Desenvolvimento Front-end
+- HTML, CSS, JavaScript
 
 ## Portfólio
 Aqui estão alguns dos meus projetos recentes:
