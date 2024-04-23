@@ -32,5 +32,3 @@ Fique √† vontade para entrar em contato comigo para discutir projetos, colabora√
 
 - E-mail: michemichele99@gmail.com
 - LinkedIn: https://www.linkedin.com/in/michele-costaa/
-- github: https://github.com/Michelita07
-- github pages: https://michelita07.github.io/Portfolio/
